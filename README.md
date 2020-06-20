@@ -1,0 +1,2 @@
+# Corona-Virus-Live-Charts
+I have used libraries like numpy, matplotlib to plot the bar, beautiful Soup for parsing HTML and XML documents. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping. This scraped data is tabulated as shown in cell 3. In addition to that, bar graph is plotted for pictorial representation. X-Axis indicates the number of cases and Y-Axis indicates the name of states.
